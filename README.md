@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @SantLuzz
-- 👀 I’m interested in C and C#
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on with programming
-- 📫 How to reach me in my email
+👋 Hi, I’m @SantLuzz
+👀 I’m interested in C#
+🌱 I’m currently learning C#
+💞️ I’m looking to collaborate on programming projects
+📫 You can reach me via email
 
-<!---
-SantLuzz/SantLuzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a mid-level .NET developer with experience in:
+
+.NET MAUI: Cross-platform application development
+Blazor WASM: Web applications with WebAssembly
+API Rest: Creating and consuming RESTful APIs
+Desktop: Desktop application development
