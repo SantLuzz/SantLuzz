@@ -7,6 +7,9 @@
 I am a mid-level .NET developer with experience in:
 
 .NET MAUI: Cross-platform application development
+
 Blazor WASM: Web applications with WebAssembly
-API Rest: Creating and consuming RESTful APIs
+
+API Rest: Creating and consuming REST APIs
+
 Desktop: Desktop application development
